@@ -1,0 +1,16 @@
+
+*.cs
+ManagerFile/.vs/ManagerFile/v16/.suo
+*.lock
+ManagerFile/.vs/ManagerFile/v16/Server/sqlite3/storage.ide
+ManagerFile/.vs/ManagerFile/v16/Server/sqlite3/storage.ide-shm
+ManagerFile/.vs/ManagerFile/v16/Server/sqlite3/storage.ide-wal
+ManagerFile/ManagerFile/obj/Debug/netcoreapp2.2/ManagerFile.AssemblyInfoInputs.cache
+ManagerFile/ManagerFile/obj/Debug/netcoreapp2.2/ManagerFile.assets.cache
+ManagerFile/ManagerFile/obj/Debug/netcoreapp2.2/ManagerFile.csprojAssemblyReference.cache
+ManagerFile/ManagerFile/obj/Debug/netcoreapp2.2/ManagerFile.RazorAssemblyInfo.cache
+ManagerFile/ManagerFile/obj/ManagerFile.csproj.nuget.cache
+ManagerFile/ManagerFile/obj/ManagerFile.csproj.nuget.dgspec.json
+ManagerFile/ManagerFile/obj/ManagerFile.csproj.nuget.g.props
+ManagerFile/ManagerFile/obj/ManagerFile.csproj.nuget.g.targets
+ManagerFile/ManagerFile/obj/project.assets.json
